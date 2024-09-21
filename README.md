@@ -30,8 +30,8 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 
 # Examples
 
-![Alt text](mint-chadwm1.jpg)
-![Alt text](mint-chadwm2.jpg)
-![Alt text](mint-chadwm3.jpg)
-![Alt text](mint-chadwm4.jpg)
-![Alt text](mint-chadwm5.jpg)
+![Alt text](mint-chadwm1.png)
+![Alt text](mint-chadwm2.png)
+![Alt text](mint-chadwm3.png)
+![Alt text](mint-chadwm4.png)
+![Alt text](mint-chadwm5.png)
