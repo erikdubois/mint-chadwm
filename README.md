@@ -14,12 +14,13 @@ Until it is quite perfect for our use.
 
 The code can be found as part of ArcoLinux Nemesis here:
 
-https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/mint-chadwm
-
+https://github.com/erikdubois/arcolinux-nemesis/tree/master/Personal/settings/voyage-of-chadwm/mint-chadwm
 
 Type in a terminal
 
-./1 and press twice on TAB and it will run the scripts. Decide what to run is also an option ofcourse.
+0-current-choices.sh
+
+and it will run the scripts. Decide what to run is also an option ofcourse.
 
 
 # Youtube
