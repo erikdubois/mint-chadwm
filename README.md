@@ -35,3 +35,4 @@ https://www.youtube.com/playlist?list=PLlloYVGq5pS4dMHsRIx6RAfbLNNMOEdCM
 ![Alt text](mint-chadwm2.png)
 ![Alt text](mint-chadwm3.png)
 ![Alt text](mint-chadwm4.png)
+![Alt text](linux-mint-xanmod.png)
